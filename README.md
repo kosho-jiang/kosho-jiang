@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kosho-jiang
-- PLAY, inc.
 
 <!---
 kosho-jiang/kosho-jiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
